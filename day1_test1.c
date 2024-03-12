@@ -1,4 +1,3 @@
-/*
 #include <stdio.h>
 
 int main() {
@@ -10,4 +9,3 @@ int main() {
 	printf("result is %d\n", result);
 	return 0;
 }
-*/
