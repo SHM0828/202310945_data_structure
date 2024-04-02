@@ -34,6 +34,5 @@ int deleteElement(int L[], int n, int x) {
 		move++;
 	}
 
-	L[k] = x;
 	return move;
 }
