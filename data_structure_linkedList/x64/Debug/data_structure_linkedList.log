@@ -1,0 +1,5 @@
+﻿  InsertLinkedList.c
+C:\Users\SHM\Documents\C\data_structure_linkedList\InsertLinkedList.c(38,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  ex4_1.c
+  Generating Code...
+  data_structure_linkedList.vcxproj -> C:\Users\SHM\Documents\C\data_structure_linkedList\x64\Debug\data_structure_linkedList.exe
