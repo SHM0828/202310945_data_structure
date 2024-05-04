@@ -1,0 +1,6 @@
+﻿  ex5_1.c
+  stackS.c
+C:\Users\SHM\Documents\C\data_structure_stack\stackS.c(35,3): warning C4013: 'exit' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\SHM\Documents\C\data_structure_stack\stackS.c(38): warning C4715: 'peek': not all control paths return a value
+  data_structure_stack.vcxproj -> C:\Users\SHM\Documents\C\data_structure_stack\x64\Debug\data_structure_stack.exe
