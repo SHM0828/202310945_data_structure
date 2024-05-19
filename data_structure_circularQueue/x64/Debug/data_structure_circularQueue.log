@@ -1,0 +1,6 @@
+﻿  cQueueS.c
+C:\Users\SHM\Documents\C\data_structure_circularQueue\cQueueS.c(14,11): warning C4133: 'function': incompatible types - from 'char [28]' to 'QueueType *'
+C:\Users\SHM\Documents\C\data_structure_circularQueue\cQueueS.c(22,11): warning C4133: 'function': incompatible types - from 'char [27]' to 'QueueType *'
+C:\Users\SHM\Documents\C\data_structure_circularQueue\cQueueS.c(37,25): warning C4033: 'deCQueue' must return a value
+C:\Users\SHM\Documents\C\data_structure_circularQueue\cQueueS.c(42): warning C4715: 'deCQueue': not all control paths return a value
+  data_structure_circularQueue.vcxproj -> C:\Users\SHM\Documents\C\data_structure_circularQueue\x64\Debug\data_structure_circularQueue.exe
